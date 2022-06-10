@@ -1,4 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 ![](https://img.shields.io/badge/React-blue)
 ![](https://img.shields.io/badge/Redux-red)
 ![](https://img.shields.io/badge/Sass-pink)
