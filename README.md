@@ -34,11 +34,6 @@ To get a local copy up and running follow these simple example steps.
   -  [Node](https://nodejs.org/en/download/)
 
 ### Usage
-#### Clone this repository
-
-`https://github.com/Kandy-Peter/crypto-exchange.git`
-
-`cd crypto-exchange`
 
 #### Run project
 
